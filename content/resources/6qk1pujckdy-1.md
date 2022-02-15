@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-08j-biological-chemistry-ii-spring-2016/bb89600d3b25f892d4335f50cab7d217_6QK1PUjCkDY.pdf
+file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/bb89600d3b25f892d4335f50cab7d217_6QK1PUjCkDY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: bb89600d-3b25-f892-d433-5f50cab7d217

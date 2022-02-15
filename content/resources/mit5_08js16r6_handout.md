@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-08j-biological-chemistry-ii-spring-2016/febd3a3580081b70f6edbace00c4831a_MIT5_08jS16r6_handout.pdf
+file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/febd3a3580081b70f6edbace00c4831a_MIT5_08jS16r6_handout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture & Recitation Videos
+parent_type: CourseSection
 resourcetype: Document
 title: '5.08 Recitation 6: Understanding macromolecular structure with transmission
   electron microscopy'

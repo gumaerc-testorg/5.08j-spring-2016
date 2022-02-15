@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture & Recitation Videos
 uid: 7a32c19e-298a-989e-6f0e-a8350a915e8f
 ---

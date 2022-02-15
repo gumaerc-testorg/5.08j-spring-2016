@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-08j-biological-chemistry-ii-spring-2016/4c6797e00dd8bfed206d1c9fafe62511_qDBdd9-T8lg.srt
+file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/4c6797e00dd8bfed206d1c9fafe62511_qDBdd9-T8lg.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 4c6797e0-0dd8-bfed-206d-1c9fafe62511
