@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '  Lecture 34: Reactive Oxygen Species 4 & Nucleotide Metabolism 1'
 uid: a3114713-1953-c8c4-f0c8-22f226c88422
 video_files:

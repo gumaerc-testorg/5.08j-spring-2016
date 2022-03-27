@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: de05bb4e-0192-f762-9b18-f005fcf6c6bb
 resourcetype: Document
 title: 5.08J(S16) Exam 1 Solutions
 uid: b9d43c16-8f05-eb1b-bdee-b307bb8ceb22

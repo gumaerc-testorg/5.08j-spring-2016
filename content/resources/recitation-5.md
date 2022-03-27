@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 5: Overview of Cross-Linking, Including Photo-Reactive Cross-Linking
   Methods'
 uid: edddfd99-c298-a91b-454e-98631e795f9a

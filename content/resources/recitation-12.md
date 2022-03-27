@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 12: Mass Spectrometry of the Cysteine Proteome'
 uid: bb68eecd-72f4-d0ad-addb-17c8d477c2ed
 video_files:

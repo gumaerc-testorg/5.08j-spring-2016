@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 7: Application of Single Molecule Methods to Understand Macromolecular
   Machines And Protein Degradation'
 uid: e9c2313f-b1c5-724e-f56d-b098c98f5d4d

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 6: Macromolecular Electron Microscopy Applied to Fatty Acid Synthase'
 uid: 8afde113-a2ac-b9ad-c049-c92691ec1d47
 video_files:

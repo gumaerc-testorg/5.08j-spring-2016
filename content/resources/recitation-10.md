@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 10: Metal-Binding Studies and Dissociation Constant Determination'
 uid: f376805c-7ff3-eaf5-548a-0d4f40812e12
 video_files:

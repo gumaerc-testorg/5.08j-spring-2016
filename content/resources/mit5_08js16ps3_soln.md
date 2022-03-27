@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f58ea98a-f2ed-3714-ab17-1a8cbf7191ea
 resourcetype: Document
 title: 5.08J (S16) Problem Set 3 Solutions
 uid: 627d6966-756c-4201-9ae0-438bbd796d4e

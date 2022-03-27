@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: de05bb4e-0192-f762-9b18-f005fcf6c6bb
 resourcetype: Document
 title: '5.08J(S16) Final Exam '
 uid: 138f5345-3616-7029-5a63-df14508b9b08

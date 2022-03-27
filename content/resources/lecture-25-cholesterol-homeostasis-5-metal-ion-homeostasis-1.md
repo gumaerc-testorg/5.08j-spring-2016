@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Cholesterol Homeostasis 5 & Metal Ion Homeostasis 1'
 uid: cac732b4-d134-be0f-d1ba-31fc899fa0e1
 video_files:

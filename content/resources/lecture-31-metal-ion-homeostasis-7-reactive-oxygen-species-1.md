@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 31: Metal Ion Homeostasis 7 & Reactive Oxygen Species 1 '
 uid: be827d38-61f4-d4f8-2ed1-e255d2200216
 video_files:

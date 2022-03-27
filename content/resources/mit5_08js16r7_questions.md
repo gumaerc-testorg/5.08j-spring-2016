@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture & Recitation Videos
 parent_type: CourseSection
+parent_uid: 7a32c19e-298a-989e-6f0e-a8350a915e8f
 resourcetype: Document
 title: '5.08 Recitation 7: Discussion Questions'
 uid: e0476e64-4724-d18a-f655-3cde2a632a5d

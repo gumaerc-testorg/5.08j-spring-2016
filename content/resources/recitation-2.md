@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 2: Pre-Steady State and Steady-State Kinetic Methods Applied to
   Translation'
 uid: c37aa055-f415-576b-9236-0d5b26e916fe
