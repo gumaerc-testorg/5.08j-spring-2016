@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/3e59d0d992382c9ecf85cd8883c73e2f_D9QJ44zENbU.pdf
+file: /courses/5-08j-biological-chemistry-ii-spring-2016/3e59d0d992382c9ecf85cd8883c73e2f_D9QJ44zENbU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

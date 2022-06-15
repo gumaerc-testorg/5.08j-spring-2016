@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/e8d3a68212f8e4f53cd85aeae3c42181_MIT5_08jS16ps4_soln.pdf
+file: /courses/5-08j-biological-chemistry-ii-spring-2016/e8d3a68212f8e4f53cd85aeae3c42181_MIT5_08jS16ps4_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

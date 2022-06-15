@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains selected exams and solution keys.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -22,37 +23,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 1 (PDF)]({{< baseurl >}}/resources/mit5_08js16exam1)
+{{% resource_link 0b776aec-284a-eb58-350e-13cdd82a4064 "Exam 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit5_08js16exam1_soln)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Exam 2 (PDF)]({{< baseurl >}}/resources/mit5_08js16exam2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit5_08js16exam2_soln)
+{{% resource_link b9d43c16-8f05-eb1b-bdee-b307bb8ceb22 "Exam 1 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exam 3 (PDF)]({{< baseurl >}}/resources/mit5_08js16exam3)
+{{% resource_link f1ca5545-8fcf-6268-9f48-c8051d3f0f0c "Exam 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit5_08js16exam3_soln)
+{{% resource_link f55b32a8-96df-7c9b-4521-3bc50e3def5a "Exam 2 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Exam (PDF - 1.1MB)]({{< baseurl >}}/resources/mit5_08js16finalexam)
+{{% resource_link f2629c8f-da6d-39e7-05a3-8c1e21917b50 "Exam 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Exam Solution (PDF - 1.4MB)]({{< baseurl >}}/resources/mit5_08js16finalexam_soln)
+{{% resource_link 6870717a-efc7-45be-02f2-413344320027 "Exam 3 Solution (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 138f5345-3616-7029-5a63-df14508b9b08 "Final Exam (PDF - 1.1MB)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 7018eca4-4845-d906-1c66-abc4d7e6b30b "Final Exam Solution (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

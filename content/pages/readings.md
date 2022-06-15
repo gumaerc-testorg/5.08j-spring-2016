@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of assigned journal articles for students
+  to read during the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: a1cea5f7-cf69-a7e4-9707-b4df5b644e70
 ---
 
-Lecture reading assignments (by module) are listed below. For recitation reading assignments, please see the Recitation Readings and Handouts column in [Lecture and Recitation Videos]({{< baseurl >}}/pages/lecture-recitation-videos).
+Lecture reading assignments (by module) are listed below. For recitation reading assignments, please see the Recitation Readings and Handouts column in {{% resource_link 7a32c19e-298a-989e-6f0e-a8350a915e8f "Lecture and Recitation Videos" %}}.
 
 General Background (Lecture 1)
 ------------------------------

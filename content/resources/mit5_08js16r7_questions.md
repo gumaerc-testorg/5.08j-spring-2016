@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-08j-biological-chemistry-ii-spring-2016/e0476e644724d18af6553cde2a632a5d_MIT5_08jS16r7_questions.pdf
+file: /courses/5-08j-biological-chemistry-ii-spring-2016/e0476e644724d18af6553cde2a632a5d_MIT5_08jS16r7_questions.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
