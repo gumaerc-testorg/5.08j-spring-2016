@@ -5,6 +5,7 @@ file: /courses/5-08j-biological-chemistry-ii-spring-2016/febd3a3580081b70f6edbac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture & Recitation Videos
 parent_type: CourseSection

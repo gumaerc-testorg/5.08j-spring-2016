@@ -5,6 +5,7 @@ file: /courses/5-08j-biological-chemistry-ii-spring-2016/ef9c6c5c820dc3cf2b871d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
