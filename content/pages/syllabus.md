@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains general information on the course format, readings,
+  assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cbf7ff94-b407-73fd-d6ea-558576453fae
 ---
@@ -43,14 +47,14 @@ There is no required textbook for this course. However, a general biochemistry b
 
 Voet, D., J. Voet, and C. Pratt. _Fundamentals of Biochemistry: Life at the Molecular Level_. 4th ed. Wiley, 2015. ISBN: 9780470547847.
 
-Review articles pertaining to the lecture material are listed in the [Readings]({{< baseurl >}}/pages/readings) section. These articles are intended to supplement lecture material. Some reviews will be significantly more comprehensive than what is covered in lecture.
+Review articles pertaining to the lecture material are listed in the {{% resource_link a1cea5f7-cf69-a7e4-9707-b4df5b644e70 "Readings" %}} section. These articles are intended to supplement lecture material. Some reviews will be significantly more comprehensive than what is covered in lecture.
 
-The papers listed under "[Readings]({{< baseurl >}}/pages/readings)" are related to lecture content. Students are expected to read these papers during the appropriate course modules. The papers listed under the "Related" tab in the [Recitation videos]({{< baseurl >}}/pages/lecture-recitation-videos) are specific for recitation sections and will be critically evaluated during the weekly recitation sessions.
+The papers listed under "{{% resource_link a1cea5f7-cf69-a7e4-9707-b4df5b644e70 "Readings" %}}" are related to lecture content. Students are expected to read these papers during the appropriate course modules. The papers listed under the "Related" tab in the {{% resource_link 7a32c19e-298a-989e-6f0e-a8350a915e8f "Recitation videos" %}} are specific for recitation sections and will be critically evaluated during the weekly recitation sessions.
 
 Recitations
 -----------
 
-Each week in recitation, the Teaching Assistant, Prof. Nolan, Prof. Stubbe, or a guest will present case studies from the literature, and review experimental methods. Each week, there will be a recitation reading assignment from the primary literature. The assigned readings are listed in the [Lecture & Recitation Videos]({{< baseurl >}}/pages/lecture-recitation-videos) section. There will also be a weekly recitation handout that provides information about techniques. Students should read the materials before recitation. Recitation material will be covered on the exams. Weekly attendance is mandatory.
+Each week in recitation, the Teaching Assistant, Prof. Nolan, Prof. Stubbe, or a guest will present case studies from the literature, and review experimental methods. Each week, there will be a recitation reading assignment from the primary literature. The assigned readings are listed in the {{% resource_link 7a32c19e-298a-989e-6f0e-a8350a915e8f "Lecture & Recitation Videos" %}} section. There will also be a weekly recitation handout that provides information about techniques. Students should read the materials before recitation. Recitation material will be covered on the exams. Weekly attendance is mandatory.
 
 Problem Sets
 ------------
