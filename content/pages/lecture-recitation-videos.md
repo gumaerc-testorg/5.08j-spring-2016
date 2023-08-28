@@ -18,7 +18,7 @@ videos
 {{< thclose >}}{{< thopen >}}
 RECITATION READINGS AND HANDOUTS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**General Background** 
+**General Background**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L1
 {{< tdclose >}}{{< tdopen >}}
@@ -138,7 +138,7 @@ Case study: Youngman, E.M., R. Green. “[Affinity purification of in vivo-assem
 {{% resource_link "6e7aee38-07f4-1aec-0ee5-1c1e64c901fa" "Recitation 4 Ribosome Purification Handout (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**Module 3: Protein Degradation** 
+**Module 3: Protein Degradation**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L12
 {{< tdclose >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ R5
 Sinz, A. "[Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions](https://pdfs.semanticscholar.org/35b0/a607eda9a0a23ee631faced825383222a68e.pdf)" *Mass Spectrometry Reviews* 2006, 25, 663-682.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**Module 4: Polyketide and Nonribosomal Peptide Assembly Lines** 
+**Module 4: Polyketide and Nonribosomal Peptide Assembly Lines**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L15
 {{< tdclose >}}{{< tdopen >}}
@@ -238,7 +238,7 @@ Cordova, J.C., A.O. Olivares, et al. "[Stochastic but Highly Coordinated Protein
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L19
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "bd89531b-ea29-2436-3e7c-0ec8d6fbb5b1" "Lecture 19: Cholesterol Biosynthesis 1" %}}
+{{% resource_link "971dde8d-530d-417c-b21c-5fae6e89837d" "Lecture 19: Cholesterol Biosynthesis 1" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
