@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-08j-biological-chemistry-ii-spring-2016/2be729ac9a63504880f082eae2b22bdf_O1_f7Pu60Bk.vtt
+file_size: 69303
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
