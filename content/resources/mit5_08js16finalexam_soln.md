@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-08j-biological-chemistry-ii-spring-2016/7018eca44845d9061c66abc4d7e6b30b_MIT5_08jS16FinalExam_soln.pdf
+file_size: 1359679
 file_type: application/pdf
 learning_resource_types:
 - Exams
