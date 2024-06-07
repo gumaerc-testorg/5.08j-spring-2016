@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-08j-biological-chemistry-ii-spring-2016/dfe91cf45c09bf1bf34d5fa58a386633_MIT5_08jS16r1_worksheet.pdf
+file_size: 137095
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

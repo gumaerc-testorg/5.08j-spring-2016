@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-08j-biological-chemistry-ii-spring-2016/ed00f3896436af474dc258ab9f095eaf_MIT5_08jS16r2_questions.pdf
+file_size: 210382
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
