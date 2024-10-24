@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/5-08j-biological-chemistry-ii-spring-2016/mit5_08js16_lecture_19_1080p_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/5-08j-biological-chemistry-ii-spring-2016/mit5_08js16_lecture_19_1080p_360p_16_9.mp4
 file_size: 122372995
 file_type: video/mp4
 image_metadata:
