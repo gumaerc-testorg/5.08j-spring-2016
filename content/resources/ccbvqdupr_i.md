@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-08j-biological-chemistry-ii-spring-2016/d59f42c9360c1ff0dcc015beb72352ac_CCbvqDuPr_I.srt
+file: /courses/5-08j-biological-chemistry-ii-spring-2016/d59f42c9360c1ff0dcc015beb72352ac_CCbvqDuPr_I.srt
 file_size: 65855
 file_type: application/x-subrip
 learning_resource_types: []
