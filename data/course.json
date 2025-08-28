@@ -50,11 +50,12 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Problem Sets with Solutions",
     "Exams with Solutions"
   ],
   "site_uid": "dae57a71-b0da-4790-ac71-edb635c191b6",
   "site_short_id": "5.08j-spring-2016",
+  "site_url_path": "courses/5-08j-biological-chemistry-ii-spring-2016",
   "title": "Course Metadata"
 }
