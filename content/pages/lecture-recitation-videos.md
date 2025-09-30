@@ -69,7 +69,7 @@ R2
 {{% resource_link "c37aa055-f415-576b-9236-0d5b26e916fe" "Recitation 2: Pre-Steady State and Steady-State Kinetic Methods Applied to Translation" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Pape, T., W. Wintermeyer, and M. Rodnina. “[Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” *EMBO J* 1999, 18, 3800-3807.
+Pape, T., W. Wintermeyer, and M. Rodnina. “{{% resource_link "b2bb17b0-ed5c-40f4-8123-3e5205d8c4e2" "Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)" %}}” *EMBO J* 1999, 18, 3800-3807.
 
 {{% resource_link "ed00f389-6436-af47-4dc2-58ab9f095eaf" "Recitation 2 Discussion Questions (PDF)" %}}
 
@@ -101,7 +101,7 @@ R3
 {{% resource_link "976bbf0d-5a17-4b21-a5a6-9771bfee6b93" "Recitation 3: Pre-Steady State and Steady-State Kinetic Methods Applied to Translation" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Pape, T., W. Wintermeyer, and M. Rodnina. “[Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171457/pdf/003800.pdf)” *EMBO J* 1999, 18, 3800-3807.
+Pape, T., W. Wintermeyer, and M. Rodnina. “{{% resource_link "b2bb17b0-ed5c-40f4-8123-3e5205d8c4e2" "Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)" %}}” *EMBO J* 1999, 18, 3800-3807.
 
 {{% resource_link "c6457e1a-84f5-0dc6-7492-eba7002314ef" "Recitation 3 Radioactive Experiments Handout (PDF)" %}}
 
@@ -129,9 +129,9 @@ R4
 {{% resource_link "ed022ed8-94e9-1a3e-cae0-67c61779aeb5" "Recitation 4: Purification of Native and Mutant Ribosomes, Protein Purification" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Background: Mesa P., A. Deniaud, et al. “[Directly From the Source: Endogenous Preparations of Molecular Machines](https://www.ncbi.nlm.nih.gov/pubmed/23395510)” *Curr Opin Struct Biol* 2013, 23, 319-325.
+Background: Mesa P., A. Deniaud, et al. “{{% resource_link "7cb60bff-e082-41f3-9695-ddc3f4629d05" "Directly From the Source: Endogenous Preparations of Molecular Machines" %}}” *Curr Opin Struct Biol* 2013, 23, 319-325.
 
-Case study: Youngman, E.M., R. Green. “[Affinity purification of in vivo-assembled ribosomes for in vitro biochemical analysis](https://www.ncbi.nlm.nih.gov/pubmed/16076457)” *Methods* 2005, 36, 305-312.
+Case study: Youngman, E.M., R. Green. “{{% resource_link "799be8cd-7d24-444b-9c09-109ee3f0d5fe" "Affinity purification of in vivo-assembled ribosomes for in vitro biochemical analysis" %}}” *Methods* 2005, 36, 305-312.
 
 {{% resource_link "07373f5d-a747-25c7-a2eb-b993860811d9" "Recitation 4 Discussion Questions (PDF)" %}}
 
@@ -169,9 +169,9 @@ R5
 
 ### Optional Reading
 
-*"*[*Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)*](https://www.thermofisher.com/content/dam/LifeTech/Images/integration/1602163_CrosslinkingHB_lores.pdf)" Thermo Fisher Scientific Inc., 2012.
+*"*{{% resource_link "c121c204-23a4-476f-bc58-c6e40d36e016" "*Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)*" %}}" Thermo Fisher Scientific Inc., 2012.
 
-Sinz, A. "[Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions](https://pdfs.semanticscholar.org/35b0/a607eda9a0a23ee631faced825383222a68e.pdf)" *Mass Spectrometry Reviews* 2006, 25, 663-682.
+Sinz, A. "{{% resource_link "39e8e4a1-aa11-4a6f-bf6d-c6bcafad86c0" "Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions" %}}" *Mass Spectrometry Reviews* 2006, 25, 663-682.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Module 4: Polyketide and Nonribosomal Peptide Assembly Lines**
@@ -197,9 +197,9 @@ R6
 
 {{< tdclose >}}{{< tdopen >}}
 
-Background: DeRosier, D. “[3D Reconstruction from Electron Micrographs: A Personal Account of its Development](https://www.ncbi.nlm.nih.gov/pubmed/20887850)” *Met Enzymol* 481(2010):1-24.
+Background: DeRosier, D. “{{% resource_link "50e3c648-06d3-4dee-852f-b9db0497eb95" "3D Reconstruction from Electron Micrographs: A Personal Account of its Development" %}}” *Met Enzymol* 481(2010):1-24.
 
-Case study: Brignole, E.J., S. Smith, and E.J. Asturias. “[Conformational Flexibility of Metazoan Fatty Acid Synthase Enables Catalysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653270/)” *Nat Struc Mol Biol* 16(2009):190-197.
+Case study: Brignole, E.J., S. Smith, and E.J. Asturias. “{{% resource_link "2dffadcc-4e20-4eb8-bb7d-41dd98a55152" "Conformational Flexibility of Metazoan Fatty Acid Synthase Enables Catalysis" %}}” *Nat Struc Mol Biol* 16(2009):190-197.
 
 {{% resource_link "febd3a35-8008-1b70-f6ed-bace00c4831a" "Recitation 6 Handout (PDF)" %}}
 
@@ -229,9 +229,9 @@ R7
 
 {{< tdclose >}}{{< tdopen >}}
 
-Aubin-Tam, M.E., A.O. Olivares, et al. “[Single-Molecule Protein Unfolding and Translocation by an ATP-fueled Proteolytic Machine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108460/)” *Cell* 2011, 145, 257-267.
+Aubin-Tam, M.E., A.O. Olivares, et al. “{{% resource_link "128d56e0-a6d8-4954-9cef-75072368b35e" "Single-Molecule Protein Unfolding and Translocation by an ATP-fueled Proteolytic Machine" %}}” *Cell* 2011, 145, 257-267.
 
-Cordova, J.C., A.O. Olivares, et al. "[Stochastic but Highly Coordinated Protein Unfolding and Translocation by the ClpXP Proteolytic Machine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4134808/)" *Cell* 158(3), 2014, 647-658.
+Cordova, J.C., A.O. Olivares, et al. "{{% resource_link "ba6da471-10a2-4a26-9bba-fb24fd97b08c" "Stochastic but Highly Coordinated Protein Unfolding and Translocation by the ClpXP Proteolytic Machine" %}}" *Cell* 158(3), 2014, 647-658.
 
 {{% resource_link "e0476e64-4724-d18a-f655-3cde2a632a5d" "Recitation 7 Discussion Questions (PDF)" %}}
 
@@ -259,11 +259,11 @@ R8
 {{% resource_link "2c80995b-b377-38ac-e401-ec3addb74138" "Recitation 8: Application of CRISPR to Study Cholesterol Regulation" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Ding, Q., A. Strong, K.M. Patel, et al. “[Permanent Alteration of PCSK9 with in Vivo CRISPR-Cas9 Genome Editing](https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.115.304351)” *Circulation Research* 115, 488-492 2014.
+Ding, Q., A. Strong, K.M. Patel, et al. “{{% resource_link "28c96fc8-02e4-439f-96d3-a17538dea293" "Permanent Alteration of PCSK9 with in Vivo CRISPR-Cas9 Genome Editing" %}}” *Circulation Research* 115, 488-492 2014.
 
-Lander, E.S. “[The Heroes of CRISPR](https://www.ncbi.nlm.nih.gov/pubmed/26771483)” *Cell* 164(2016): 18-28.
+Lander, E.S. “{{% resource_link "78014b3c-d18f-4551-b51a-9580bb26fa7b" "The Heroes of CRISPR" %}}” *Cell* 164(2016): 18-28.
 
-Peng, R., G. Lin, J. Li. “[Potential Pitfalls of CRISPR/Cas9-Mediated Genome editing](https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/febs.13586)" *The FEBS Journal* 283, no.7, 2016, 1218-1231.
+Peng, R., G. Lin, J. Li. “{{% resource_link "293ce80c-2c84-43ef-9f76-acb06970c4b8" "Potential Pitfalls of CRISPR/Cas9-Mediated Genome editing" %}}" *The FEBS Journal* 283, no.7, 2016, 1218-1231.
 
 {{% resource_link "372e817c-4b62-048a-3f28-656f352bae6a" "Recitation 8 CRISPR Reading (PDF)" %}}
 
@@ -291,7 +291,7 @@ R9
 {{% resource_link "ca17c236-b169-fbf6-9734-4bcdec3d04a4" "Recitation 9: Cholesterol Homeostasis and Sensing" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Radhakrishnan, A., J.L. Goldstein, et al. “[Switch-like Control of SREBP-2 Transport Triggered by Small Changes in ER Cholesterol: A Delicate Balance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652870/)” *Cell Metabolism* 2008 8, 512-521.
+Radhakrishnan, A., J.L. Goldstein, et al. “{{% resource_link "59fdca56-71d6-4c17-a8d9-3e5159ff6958" "Switch-like Control of SREBP-2 Transport Triggered by Small Changes in ER Cholesterol: A Delicate Balance" %}}” *Cell Metabolism* 2008 8, 512-521.
 
 {{% resource_link "f7bbd16f-0c4f-554b-5ff2-093155b2f00f" "Recitation 9 Cholesterol Homeostasis (PDF)" %}}
 
@@ -321,9 +321,9 @@ R10
 {{% resource_link "f376805c-7ff3-eaf5-548a-0d4f40812e12" "Recitation 10: Metal-Binding Studies and Dissociation Constant Determination" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Xiao, Z., and A.G. Wedd. “[The Challenges of Determining Metal-Protein Affinities](https://www.semanticscholar.org/paper/The-challenges-of-determining-metal-protein-Xiao-Wedd/e5c2a0975802a9e81f1e71aab398261567e47597).” *Nat Prod Rep* 27(2010):768-789. Read sections 1 - 3.3.2 (pg. 768-772)
+Xiao, Z., and A.G. Wedd. “{{% resource_link "3206b4a5-becf-49e4-8090-1525d390b245" "The Challenges of Determining Metal-Protein Affinities" %}}.” *Nat Prod Rep* 27(2010):768-789. Read sections 1 - 3.3.2 (pg. 768-772)
 
-Lisher, J.P., and D.P. Giedroc. “[Manganese Acquisition and Homeostasis at the Host-Pathogen interface](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3851752/).”  *Front Cell Infect Microbiol* 3(2013):91. Read sections on entitled “Structural studies of bacterial manganese import systems,” “Host sequestration of transition metal ions,” and “Calprotectin: structural, metal binding and functional properties”(pg. 8-10)
+Lisher, J.P., and D.P. Giedroc. “{{% resource_link "fd173289-2a61-46ce-aaf6-3309ba17b880" "Manganese Acquisition and Homeostasis at the Host-Pathogen interface" %}}.”  *Front Cell Infect Microbiol* 3(2013):91. Read sections on entitled “Structural studies of bacterial manganese import systems,” “Host sequestration of transition metal ions,” and “Calprotectin: structural, metal binding and functional properties”(pg. 8-10)
 
 {{% resource_link "4c866fb3-ddfb-a272-5b07-fd4b2cfcebfd" "Recitation 10 Metal-Binding and Dissociation Constant (PDF)" %}}
 
@@ -345,9 +345,9 @@ R11
 {{% resource_link "b2687be1-ba8e-4105-f09b-df4e46ff4c49" "Recitation 11: Mass Spectrometry" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Seo, Y.H., and K.S. Carroll. “[Quantification of Protein Sulfenic Acid Modifications Using Isotope-Coded Dimedone and Iododimedone](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201007175).” *Angew Chem Int Ed* 50(2011):1342-5.
+Seo, Y.H., and K.S. Carroll. “{{% resource_link "e62e5116-2e14-4b50-8c70-3c0e40e7c8a8" "Quantification of Protein Sulfenic Acid Modifications Using Isotope-Coded Dimedone and Iododimedone" %}}.” *Angew Chem Int Ed* 50(2011):1342-5.
 
-C.E. Paulsen et al. “[Peroxide-Dependent Sulfenylation of the EFGR Catalytic Site Enhances Kinase Activity](https://www.nature.com/articles/nchembio.736).”  *Nat Chem Biol* 8(2011)\_:\_57-64.
+C.E. Paulsen et al. “{{% resource_link "d21d3548-caa7-4ca5-92e0-79f0d96068db" "Peroxide-Dependent Sulfenylation of the EFGR Catalytic Site Enhances Kinase Activity" %}}.”  *Nat Chem Biol* 8(2011)\_:\_57-64.
 
 {{% resource_link "20ad4914-8d81-9942-b273-a3ff780d28c9" "Recitation 11 Mass Spectrometry (PDF)" %}}
 
@@ -371,7 +371,7 @@ R12
 {{% resource_link "bb68eecd-72f4-d0ad-addb-17c8d477c2ed" "Recitation 12: Mass Spectrometry of the Cysteine Proteome" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Deng, X. et. al. “[Steady State Hydrogen Peroxide Induces Glycolysis in Staphylococcus aureus and Pseudomonas aeruginosa](https://jb.asm.org/content/196/14/2499.full).” *J Bacteriol* 196(2014): 2499-513.
+Deng, X. et. al. “{{% resource_link "e1ecab8f-c60c-458c-9da4-4fc73eafe257" "Steady State Hydrogen Peroxide Induces Glycolysis in Staphylococcus aureus and Pseudomonas aeruginosa" %}}.” *J Bacteriol* 196(2014): 2499-513.
 
 {{% resource_link "23f07f77-55fe-c4ea-cf11-6825dc5d93d8" "Recitation 12 Intracellular Proteome Analysis via MS (PDF)" %}}
 
@@ -401,9 +401,9 @@ R13
 {{% resource_link "40b221a4-a37a-38d2-3ad6-70d29847f67c" "Recitation 13: Fluorescence Methods" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-A. Zhao, M. Tsechansky, et al. “[Revisiting and Revising the Purinosome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4151177/).” *Mol Biosyst* 10(2014): 369-74.
+A. Zhao, M. Tsechansky, et al. “{{% resource_link "0b0a1da4-0021-466d-a022-625bae62824a" "Revisiting and Revising the Purinosome" %}}.” *Mol Biosyst* 10(2014): 369-74.
 
-Critically evaluate: An, S., R. Kumar, et al. “[Reversible Compartmentalization of de novo Purine Biosynthetic Complexes in Living Cells](http://science.sciencemag.org/content/320/5872/103).” *Science* 320(2008): 103-106.
+Critically evaluate: An, S., R. Kumar, et al. “{{% resource_link "2c8c4509-7a54-481e-825f-21c8d04ad3d5" "Reversible Compartmentalization of de novo Purine Biosynthetic Complexes in Living Cells" %}}.” *Science* 320(2008): 103-106.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L35
